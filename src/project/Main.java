@@ -6,11 +6,6 @@ public class Main {
         System.out.println("ho");
         System.out.println("ho");
         System.out.println("ho");
-        System.out.println("ho");
-        System.out.println("ho");
-        System.out.println("ho");
-        System.out.println("ho");
-        System.out.println("ho");
 
 
     }
